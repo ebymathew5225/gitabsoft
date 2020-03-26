@@ -1,1 +1,2 @@
-test
+file is ok and tested well 
+test PASS
